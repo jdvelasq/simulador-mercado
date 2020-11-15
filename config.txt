@@ -1,3 +1,5 @@
 ONI: 
     NUMSIM: 100
     ESCENARIOS: [10, 50, 90]
+APORTES:
+    NUMSIM: 100
